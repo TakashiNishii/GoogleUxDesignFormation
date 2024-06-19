@@ -56,3 +56,29 @@ Normalmente esses requisitos incluem dois tipos de informações: objetivos e pa
 - Prioriza os usuários
 - Testar seu produto com usuários reais e as suas reações/experiência antes do lançamento
 
+ ## Etapas de planejamento do design sprints
+ ### Pesquisa com usuários
+ Esse sempre será o primeiro passo. Você deve entender quem são seus usuários, o que eles precisam e como eles usam seu produto.
+
+ ### Chamar os especialistas
+ Marque reuniões com diversos especialistas da área para entender o que eles pensam sobre o problema e como eles resolveriam.
+
+### Encontre o espaço certo
+Quadros brancos, móveis que se movem facilmente, espaço para post-its e espaço para prototipagem, para que garanta um bom ambiente para a equipe e que todos possam ser produtivos.
+
+### Coletar suprimentos
+O lugar onde você fará o design sprint deve ter todos os suprimentos necessários para a equipe. Isso inclui post-its, canetas, papel, protótipos, e até alguns snacks, afinal, ninguém é de ferro.
+
+### Estabelecer regras do sprint
+É importante que todos os membros da equipe estejam alinhados com as regras do sprint. Isso inclui horários, tempo de descanso, tempo de almoço, e até mesmo o que é esperado de cada membro da equipe.
+
+### Planejar as apresentações
+Quebre o gelo entre os membros da equipe e faça com que todos se sintam confortáveis. Isso pode ser feito com uma apresentação rápida de cada membro da equipe, para que todos saibam quem é quem.
+
+### Planejamento pós sprint
+Depois do sprint, é importante que a equipe se reúna para discutir o que deu certo e o que deu errado. Isso é importante para que você possa melhorar o processo para o próximo sprint.
+
+## Resumo do sprint de design
+É gerado sempre um documento chamado de `Sprint brief`, nele contém todas as informações sobre o sprint, incluindo o problema que você está tentando resolver, quem são os usuários, o que você espera alcançar e como você planeja fazer isso.
+
+Esse documento é feito pelo `Sprint leader`, que é o responsável por liderar o sprint e garantir que todos os membros da equipe estejam alinhados com o objetivo do sprint.

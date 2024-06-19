@@ -47,3 +47,12 @@ Normalmente esses requisitos incluem dois tipos de informações: objetivos e pa
 
 - Os requisitos e os padrões que o design deve atender
 
+## Design sprint
+É um processo de cinco dias para resolver problemas e testar novas ideias. O design sprint foi desenvolvido pelo Google Ventures e é baseado no design thinking.
+
+### Beneficios do design sprint
+- Economiza tempo e dinheiro
+- Cria um caminho para entregar o produto ao mercado
+- Prioriza os usuários
+- Testar seu produto com usuários reais e as suas reações/experiência antes do lançamento
+

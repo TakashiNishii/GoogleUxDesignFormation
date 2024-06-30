@@ -31,7 +31,7 @@ Foca na animação do produto, como transições, movimentos e efeitos.
 > Assets são os elementos de design que são utilizados para criar o produto, como imagens, ícones, fontes, cores, etc.
 
 ## Ciclo de vida de desenvolvimento de um produto
-![Ciclo de vidade desenvolvimento de um produto](/images/cicle.png)
+![Ciclo de vidade desenvolvimento de um produto](images/cicle.png)
 O ciclo de vida de desenvolvimento de um produto é dividido em 5 etapas:
 - Brainstorm: Onde a ideia do produto é criada.
 - Definição: Onde o produto é definido, como ele vai funcionar e qual problema ele resolve.

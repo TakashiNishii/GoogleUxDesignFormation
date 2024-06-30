@@ -1,21 +1,21 @@
 # Como a pesquisa de UX se encaixa no desenvolvimento de um produto
 Diferente do que se parece, a pesquisa de UX ocorre antes, durante e depois da fase de design. 
 
-![Pesquisas de UX durante o ciclo de vida do desenvolvimento de produtos](/images/ux_research.png)
+![Pesquisas de UX durante o ciclo de vida do desenvolvimento de produtos](images/ux_research.png)
 
 ## Tópicos a serem feitos na pesquisa de UX
-![Foundational research](/images/foundational_reseach.png)
+![Foundational research](images/foundational_reseach.png)
 - O que devemos construir?
 - Quais são os problemas do usuário?
 - Como podemos resolve-lo?
 
 ## Tópicos a serem feitos na Pesquisa de design
-![Design research](/images/design_research.png)
+![Design research](images/design_research.png)
 >  É feita enquanto você projeta. No ciclo de vida do desenvolvimento do produto, a pesquisa de design ocorre durante o estágio de design (estágio três)
 - Como devemos construi-lo?
 
 ## Tópicos a serem feitos na Pesquisa de pós-lançamento
-![Post launch research](/images/post_launch_research.png)
+![Post launch research](images/post_launch_research.png)
 > Ocorre após o lançamento do produto, onde é feito a análise de dados e feedbacks dos usuários.
 - Tivemos sucesso?
 
@@ -27,7 +27,7 @@ Os métodos de pesquisa de UX podem ser divididos em três categorias:
 - Pesquisas (Survey): Coleta de dados de um grande número de usuários.
 - Testes de usabilidade: Observação de usuários interagindo com um produto.
 
-![Types of research](/images/types_research.png)
+![Types of research](images/types_research.png)
 
 
 

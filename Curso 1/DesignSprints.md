@@ -5,7 +5,7 @@ Um framework de design de UX. Os framework no mundo de design UX é uma ferramen
 
 O design thinking framework é uma abordagem centrada no usuário para a solução de problemas que inclui atividades como pesquisa, protótipo e testes para ajudá-lo a entender quem é o usuário, quais são seus problemas e o que o design deve incluir.
 
-![Processos do design thinking](/images/design_thinking.png)
+![Processos do design thinking](images/design_thinking.png)
 
 ### Empatia
 O primeiro passo do design thinking é a empatia. Isso significa que você deve se colocar no lugar do usuário e entender o que ele está passando. Isso pode ser feito por meio de pesquisas, entrevistas e observação.

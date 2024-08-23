@@ -1,0 +1,6 @@
+# Técnicas de teste de usabilidade moderada
+Em um teste de usabilidade moderada, o moderador desempenha um papel fundamental na condução do teste e na interação com os participantes. Existem várias técnicas que podem ser usadas para garantir que o teste seja eficaz e que os participantes forneçam feedback útil. Aqui estão algumas das técnicas mais comuns:
+- **Pensar em voz alta**: pedir aos participantes que verbalizem seus pensamentos enquanto realizam as tarefas pode fornecer insights valiosos sobre como eles estão interagindo com o produto.
+- **Faça perguntas abertas**: fazer perguntas abertas pode ajudar a obter feedback detalhado dos participantes e identificar problemas de usabilidade.
+- **Perguntas de acompanhamento**: fazer perguntas de acompanhamento pode ajudar a esclarecer as respostas dos participantes e obter mais informações sobre suas experiências.
+- **Sumarize as respostas para confirmar a compreensão**: resumir as respostas dos participantes pode ajudar a garantir que o moderador entendeu corretamente o feedback e pode fornecer uma oportunidade para os participantes corrigirem ou esclarecerem suas respostas.

@@ -1,0 +1,3 @@
+# Importância do Espaço em Branco no UX Design
+Também chamado de espaço negativo, o espaço em branco é um elemento crucial no design de interfaces. O espaço em branco é o espaço vazio entre os elementos na tela. Ele ajuda a criar uma sensação de equilíbrio e harmonia na interface, tornando-a mais fácil de ler e entender. O espaço em branco também ajuda a destacar os elementos importantes na tela, tornando-os mais visíveis e fáceis de encontrar. O espaço em branco é uma ferramenta poderosa no design de interfaces, pois ajuda a melhorar a experiência do usuário e a tornar o design mais atraente e eficaz.
+
